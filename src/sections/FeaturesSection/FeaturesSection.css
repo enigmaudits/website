@@ -1,0 +1,13 @@
+.features-section {
+    padding-top: 75px;
+    padding-bottom: 75px;
+}
+
+.features-section__title {
+    font-weight: bold;
+    font-size: 26px;
+}
+
+.features-section__text {
+    font-size: 18px;
+}

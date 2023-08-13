@@ -1,0 +1,8 @@
+.section {
+    background-color: rgba(0,0,0,.5);
+}
+
+.section-white {
+    background-color: transparent;
+    color: #333;
+}
